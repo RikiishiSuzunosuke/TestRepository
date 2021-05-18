@@ -15,3 +15,5 @@
 
 ## log
 自分のPCにcloneしてみた。その後、commitして、push。
+
+そのあとさらに、pullもやってみる
